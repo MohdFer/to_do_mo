@@ -1,6 +1,6 @@
 # to_do_mo
 
-A new Flutter project.
+A new Flutter To-Do project.
 
 ## Getting Started
 
