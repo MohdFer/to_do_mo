@@ -2,6 +2,9 @@
 
 A new Flutter To-Do project.
 
+
+@ozfer.hu
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -17,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-@ozfer.hu
+
